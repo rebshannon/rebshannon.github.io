@@ -1,19 +1,19 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About Me
+  url: "/about-me/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Projects"
+  url: "/projects/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "MS Thesis"
+    url: "/projects/ms-thesis/"
+  - title: "PhD Thesis"
+    url: "/projects/phd-thesis/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
@@ -31,8 +31,8 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "For Fun"
+  url: "/fun/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
