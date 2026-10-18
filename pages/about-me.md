@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
+title               : "About Me"
 subheadline         : "A Step-by-Step Guide"
 teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
@@ -22,4 +22,4 @@ permalink           : "/about-me/"
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+ [1]: {{ site.url }}{{ site.baseurl }}/about-me/
