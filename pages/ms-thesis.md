@@ -10,7 +10,9 @@ header:
 permalink: /projects/ms-thesis/
 ---
 
-I worked witb Dr. Jingru Benner at Western New England University 
+ Tools/Skills: OpenFOAM, MATLAB, high performance computing
+
+Advisor: Dr. Jingru Benner
 
 ## Abstract
 Microencapsulated phase change materials (MEPCMs) are being studied as an 

@@ -2,24 +2,29 @@
 layout              : page
 show_meta           : false
 title               : "About Me"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+subheadline         : "A Quick Autobiography"
+teaser              : "Find out how I got to where I am now"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/about-me/"
 ---
-1. Open `_config.yml` and work it through, it's well documented. done
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Customize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+I'm a mechanical engineer who specializes in using comutational fluid dynamics to solve complex, multiphase, multiscale problems. 
+
+I earned my Bachelor of Science in Mechanical Engineering from Western New England University (WNE), graduating Summa Cum Laude in 2021. I was awarded the Dean's Award for maintaining the highest cumulative GPA in the School of Engineering and was named a co-recipiet of the Marston Award, whoch is given to the senior students judged to have the most mature understanding of the principles of professional engineering practice. I was also inducted into the Tau Beta Pi Honor Society (an engineering honor society) in my junior year and was elected treasurer. 
+
+I spent my summer and winter breaks as a Cadet Engineer at the Holyoke Gas and Electric Department. I worked in the hydroelectric department, which maintains and operates hydroeetric turbines that generate about two thirds of the city's electricity demands. In this roles, I helped with everything from leading safety inspections to evaluating generator efficiency after maintenance to transporting juvenile American eels around the dam as they migrate upstream. During the academic year, I also worked as a teaching assistant for first year engineering design courses and a grader for higher level engineering courses.
+
+After completing my undergaduate work, I stayed at WNE and earned my Masters of Science in Mechanical Engineering in 2022. I continued to serve as a grader and teaching assistant, and I also worked part time at Fleet Feet Longmeadow. I was named a Student Facilitator by the Northeast Cyberteam, which gave me resources to complete computational research with the Massachusetts Green High Performance Computing Center. This allowed me to complete my [Master's Thesis][1], which focused on computtional fluid dynamcis and machine learning.
+
+In 2022, I began my PhD at Boston University (BU) working with Dr. Sheryl Grace in the Unsteady Fluid Mechanics and Acoustics Lab. I was awarded the College of Engineering Distringuished Fellowship in Energy and Sustainability based on my previous experience and application materials. In 2024, I was awarded a National Defense in Science and Engineering Graduate Fellowship sponsored by the Office of Naval Research. 
+
+On the more fun side of things, I was elected Communications Chair of the Student Association of Graduate Engineers at BU. In this role, I helped organize events for my peers, maintained an Instagram account for the organization, and wrote monthly newsletters. I'm also an avid runner: I've trained for races ranging from 1 mile to a marathon and recently started to explore the triathlon world. I love playing basketball and doing almost anything outside, but also enjoy staying inside and quilting or reading (mostly sci-fi).
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/about-me/
+
+
+
+ [1]: {{ site.url }}{{ site.baseurl }}/projects/ms-thesis/
+
+ [2]: {{ site.url }}{{ site.baseurl }}/about-me/
