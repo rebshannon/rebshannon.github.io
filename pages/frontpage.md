@@ -7,7 +7,7 @@ subheadline: "Layouts of Feeling Responsive"
 header: 
    image_fullwidth: "header_unsplash_5.jpg"
    title: "Rebecca Shannon"
-permalink: ""
+
 ---
 <ul>
     {% for page in site.categories.research %}
