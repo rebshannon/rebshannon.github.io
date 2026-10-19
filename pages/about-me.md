@@ -7,6 +7,7 @@ subheadline         : "An Abridged Autobiography"
 header:
    title            : "Rebecca Shannon"
    image_fullwidth  : "header_homepage_13.jpg"
+   caption      : "A PhD Candidate"
 permalink           : "/about-me/"
 ---
 
