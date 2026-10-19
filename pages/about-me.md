@@ -2,7 +2,7 @@
 layout              : page
 show_meta           : false
 title               : "About Me"
-subheadline         : "A Quick Autobiography"
+subheadline         : "An Abridged Autobiography"
 #teaser              : "Find out how I got to where I am now"
 header:
    title            : "Rebecca Shannon"
