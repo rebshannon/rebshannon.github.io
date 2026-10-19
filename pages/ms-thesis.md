@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 title:  "Analysis of Particle Attribute of Microencapsulated Phase Change Materials Using Long Short-Term Memory"
-subheadline:  Masters Thesiss"
-teaser: "OpenFOAM and MATLAB are used to develop a numerical heat transfer model and a LSTM framework."
+subheadline:  Masters Thesis
+teaser: "Using finite volume simulations with machine learning"
 categories:
     - prjects
 header:
