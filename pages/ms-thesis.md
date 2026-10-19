@@ -4,10 +4,10 @@ title:  "Analysis of Particle Attribute of Microencapsulated Phase Change Materi
 subheadline:  Masters Thesis
 teaser: "Using finite volume simulations with machine learning"
 categories:
-    - prjects
-header:
-   image_fullwidth: header_unsplash_leaf.jpg
-permalink: /projects/ms-thesis/
+    - research
+header: no
+  # image_fullwidth: header_unsplash_leaf.jpg
+permalink: /research/ms-thesis/
 ---
 
  Tools/Skills: OpenFOAM, MATLAB, high performance computing

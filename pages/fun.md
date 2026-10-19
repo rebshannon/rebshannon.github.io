@@ -12,3 +12,5 @@ permalink: "/fun/"
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+SAGE, TBZ, running/triathlon, basketball, quilting
