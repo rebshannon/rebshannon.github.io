@@ -9,6 +9,16 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 
 {% comment %}
 *
@@ -100,12 +110,4 @@ format: frontpage
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
 
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->

@@ -45,7 +45,8 @@ permalink: /index.html
 homepage: true
 
 ---
-#Welcome
+# Welcome
+
 I'm a PhD candidate in the Unstead Fluid Mechanics and Acoustics Lab at Boston University. I am a National Defense Science and Engineering Graduate Fellow, and I specialize in simluation of high-speed multiphase flows.
 
 
