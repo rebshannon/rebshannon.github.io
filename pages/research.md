@@ -9,7 +9,7 @@ header: no
 permalink: "/research/"
 ---
 <ul>
-    {% for post in site.categories.research %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% for page in site.categories.research %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
 </ul>
