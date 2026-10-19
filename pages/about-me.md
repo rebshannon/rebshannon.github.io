@@ -3,11 +3,10 @@ layout              : page
 show_meta           : false
 title               : "About Me"
 subheadline         : "A Quick Autobiography"
-teaser              : "Find out how I got to where I am now"
+#teaser              : "Find out how I got to where I am now"
 header:
-   name            : "Rebecca Shannon"
+   title            : "Rebecca Shannon"
    image_fullwidth  : "header_homepage_13.jpg"
-   subheadline     : "A PhD Candidate"
 permalink           : "/about-me/"
 ---
 
