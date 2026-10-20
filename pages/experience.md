@@ -8,8 +8,10 @@ header: no
  #  title: "Rebecca Shannon"
 permalink: "/experience/"
 ---
+
+
 <ul>
-    {% for page in site.categories.experience %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
+  <li><a href="{{ '/experience/teaching/' | relative_url }}">Teaching</a></li>
+  <li><a href="{{ '/experience/work/' | relative_url }}">Work and Volunteer</a></li>
+  <li><a href="{{ '/experience/outreach/' | relative_url }}">Outreach and Involvement</a></li>
 </ul>

@@ -9,7 +9,6 @@ header: no
 permalink: "/research/"
 ---
 <ul>
-    {% for page in site.categories.research %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
+  <li><a href="{{ '/research/ms-thesis/' | relative_url }}">Masters Thesis</a></li>
+  <li><a href="{{ '/research/phd-thesis/' | relative_url }}">PhD Thesis</a></li>
 </ul>
