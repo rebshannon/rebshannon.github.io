@@ -1,31 +1,46 @@
 ---
 layout: page
-title: "Volunteer and Outreach Experince"
+title: "Outreach and Involvement"
 #subheadline: "Why another Jekyll Theme?"
 #teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/experience/volunteer/"
+permalink: "/experience/outreach/"
 categories:
     - experience
 header:
     image_fullwidth: "header_drop.jpg"
 ---
 
+## TrailBlazHers UpliftHer
 
-## Student Leader
+2026-2027
+
+## Boston University
+
+### SAGE Comms Chair
+
+
+### Student Tech advirosy board
+
+## Western New England
+
+### Student Leader
 
 glickman - balloon cars
+
 duggan - programming short course
 
-## NSF Peer mentor 
+### NSF Peer mentor 
 
 2021-2022
 
-## Western New England University - Student Accessibility Services
+### Tau Beta Pi
 
-Volunteer NoteTaker
+inducted 2020
 
-MATLAB, Diff eq, calc3, math 350
+### Intramurals
 
-## Holyoke Boys and Girls Club
 
-205-2016
+### 
+
+
+

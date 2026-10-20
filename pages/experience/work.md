@@ -18,8 +18,14 @@ header:
 
 2017-2021, summers and winters
 
+## Western New England University - Student Accessibility Services
+
+Volunteer NoteTaker
+
+MATLAB, Diff eq, calc3, math 350
+
 ## Holyoke Boys and Girls Club
 
-Summer 2016
+2016
 
 

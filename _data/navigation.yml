@@ -25,10 +25,10 @@
   dropdown:
   - title: "Teaching"
     url: "/experience/teaching/"
-  - title: "Work"
+  - title: "Work and Volunteer"
     url: "/experience/work/"
-  - title: "Volunteer and Outreach"
-    url: "/experience/volunteer/"
+  - title: "Outreach and Involvement"
+    url: "/experience/outreach/"
       
 
 - title: For Fun
