@@ -19,13 +19,26 @@
   url: "/cv/"
   side: left
 
-- title: "Teaching"
-  url:  "/teaching/"
+- title: "Experience"
+  url:  "/experience/"
   side: left
+  dropdown:
+  - title: "Teaching"
+    url: "/experience/teaching/"
+  - title: "Work"
+    url: "/experience/work/"
+  - title: "Volunteer and Outreach"
+    url: "/experience/volunteer/"
+      
 
 - title: For Fun
   url: "/fun/"
   side: left
+  # dropdown:
+  # - title: "Running"
+  #   url: "/fun/running/"
+  # - title: "Quilting"
+  #   url: "/fun/quilting/"
 
 
 - title: Blog
