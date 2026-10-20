@@ -10,7 +10,7 @@ header:
 
 widget1:
   title: "About Me"
-  url: 'http://https://rebshannon.github.io/about-me/'
+  url: 'https://rebshannon.github.io/about-me/'
   image: widget-1-302x182.jpg
   text: 'about me link'
 widget2:
