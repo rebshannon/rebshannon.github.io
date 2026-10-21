@@ -10,7 +10,7 @@ header: no
 permalink: /research/ms-thesis/
 ---
 
- Tools/Skills: OpenFOAM, MATLAB, high performance computing, Minitab, machiine learning
+ Tools/Skills: OpenFOAM, MATLAB, high performance computing, Minitab, machine learning
 
 Advisor: Dr. Jingru Benner
 

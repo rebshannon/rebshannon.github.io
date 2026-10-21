@@ -6,8 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
-
+  image_fullwidth: gilson-pond.jpeg
 widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
