@@ -14,6 +14,8 @@
     url: "/research/ms-thesis/"
   - title: "PhD Thesis"
     url: "/research/phd-thesis/"
+  - title: "Presentations"
+    url: "/research/presentations/"
 
 - title: "Curriculum Vitae"
   url: "/cv/"
