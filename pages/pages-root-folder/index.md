@@ -47,7 +47,7 @@ homepage: true
 ---
 # Welcome
 
-I'm a PhD candidate in the Unstead Fluid Mechanics and Acoustics Lab at Boston University. I am a National Defense Science and Engineering Graduate Fellow, and I specialize in simluation of high-speed multiphase flows.
+I am a PhD Candidate in the [Unsteady Fluid Mechanics and Acoustics Lab][1] at Boston University and am a National Defense Science and Engineering Graduate Fellow. I specialize in the simluation of high-speed multiphase flows using finite volume methods.
 
 
 
@@ -57,3 +57,6 @@ I'm a PhD candidate in the Unstead Fluid Mechanics and Acoustics Lab at Boston U
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+
+[1]: https://www.bu.edu/ufmal/
