@@ -10,16 +10,21 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-## TrailBlazHers UpliftHer
+## TrailBlazHers Run Co.
 
-2026-2027
+### UpliftHer
+
+TrailblazHers is an all female run group in Boston. As an UpliftHer, I 
 
 ## Boston University
 
-### SAGE Comms Chair
+### SAGE Communications Chair
 
+From 2024-2026, I served as the Communications Chair for the Student Association of Graduate Engineers (SAGE). I helped to organize events for graduate engineering students at Boston University including pub nights and tickets to see sporting events and musicals. As Communications Chair, I also maintained the organizations Instagram account and wrote monthly newletters to keep members informed on upcoming events.
 
-### Student Tech advirosy board
+### Student Technology Advisory Council
+
+In this role, I met with other students and members of Information Services and Technology to discuss IT concerns at Boston Univeristy.
 
 ## Western New England
 

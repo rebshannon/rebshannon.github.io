@@ -14,6 +14,8 @@ Tools/Skills: OpenFOAM, MATLAB, high performance computing, Python, Pointwise
 
 Advisor: Dr. Sheryl Grace
 
+This work is sponsored by a National Defense Science and Engineering Fellowship.
+
 ## Abstract
 Hypersonic vehicles can sustain significant damage when they are impacted by atmospheric
 particles, including raindrops on the scale of 2 mm. Before colliding with the vehicle, these
