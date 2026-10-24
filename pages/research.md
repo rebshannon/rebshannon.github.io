@@ -30,7 +30,7 @@ I have over 5 years of experience using [OpenFOAM][3] to solve multiphase proble
 <ul>
   <li><a href="{{ '/research/ms-thesis/' | relative_url }}">Masters Thesis</a></li>
   <li><a href="{{ '/research/phd-thesis/' | relative_url }}">PhD Thesis</a></li>
-  <li><a href="{{ '/research/presentations/' | relative_url }}">Presentations</a></li>
+  <li><a href="{{ '/research/publications/' | relative_url }}">Publications</a></li>
 </ul>
 
 
