@@ -44,13 +44,13 @@ J. Z. Benner, **R. C. Shannon**, W. Wu, A. Metsack, L. Shen, and J. Zhao, “The
 
 <div class="row">
   <div class="large-3 columns">
-      <img src="sciTech&amp;text=Width+220+Pixel">
+      <img src="sciTech.jpg;text=Width+220+Pixel">
   </div>
   <div class="large-3 columns">
-      <img src="cavSym&amp;text=Width+220+Pixel">
+      <img src="cavSym.jpg;text=Width+220+Pixel">
   </div>
   <div class="large-3 columns">
-      <img src="UCAH;text=Width+220+Pixel">
+      <img src="UCAH.jpg;text=Width+220+Pixel">
   </div>
 </div>
 </div><!-- /.hide-for-small -->
