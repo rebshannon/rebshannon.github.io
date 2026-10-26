@@ -44,13 +44,13 @@ J. Z. Benner, **R. C. Shannon**, W. Wu, A. Metsack, L. Shen, and J. Zhao, “The
 
 <div class="row">
   <div class="large-3 columns">
-      <img src="{{ '/images/sciTech.heic', | relative_url }}">
+      <img src="{{ '/images/sciTech.png', | relative_url }}">
   </div>
   <div class="large-3 columns">
       <img src="{{ '/images/cavSym.jpg', | relative_url }}">
   </div>
   <div class="large-3 columns">
-      <img src="{{ '/images/ucah.heic', | relative_url }}">
+      <img src="{{ '/images/ucah.png', | relative_url }}">
   </div>
 </div>
 
