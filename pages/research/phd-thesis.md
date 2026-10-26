@@ -14,6 +14,8 @@ Tools/Skills: OpenFOAM, MATLAB, high performance computing, Python, Pointwise
 
 Advisor: Dr. Sheryl Grace
 
+Years: Fall 2022 - Spring 2027 (Expected)
+
 This work is sponsored by a National Defense Science and Engineering Fellowship.
 
 ## Abstract

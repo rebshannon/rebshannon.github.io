@@ -28,8 +28,9 @@ I have over 5 years of experience using [OpenFOAM][3] to solve multiphase proble
 
 ### Read more about specific projects
 <ul>
-  <li><a href="{{ '/research/ms-thesis/' | relative_url }}">Masters Thesis</a></li>
   <li><a href="{{ '/research/phd-thesis/' | relative_url }}">PhD Thesis</a></li>
+  <li><a href="{{ '/research/ms-thesis/' | relative_url }}">Master Thesis</a></li>
+  <li><a href="{{ '/research/honors-thesis/' | relative_url }}">Honors Thesis</a></li>
   <li><a href="{{ '/research/publications/' | relative_url }}">Publications</a></li>
 </ul>
 

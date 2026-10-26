@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "Analysis of Particle Attribute of Microencapsulated Phase Change Materials Using Long Short-Term Memory"
 subheadline:  Masters Thesis
-teaser: "Using finite volume simulations with machine learning"
+teaser: "Coupling CFD and machine learning to improve manufacturing processes"
 categories:
     - research
 header: no
@@ -10,9 +10,11 @@ header: no
 permalink: /research/ms-thesis/
 ---
 
- Tools/Skills: OpenFOAM, MATLAB, high performance computing, Minitab, machine learning
+Tools/Skills: OpenFOAM, MATLAB, high performance computing, Minitab, machine learning
 
 Advisor: Dr. Jingru Benner
+
+Years: Summer 2021 - Spring 2022
 
 ## Abstract
 Microencapsulated phase change materials (MEPCMs) are being studied as an 

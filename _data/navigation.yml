@@ -10,10 +10,12 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "MS Thesis"
-    url: "/research/ms-thesis/"
   - title: "PhD Thesis"
     url: "/research/phd-thesis/"
+  - title: "MS Thesis"
+    url: "/research/ms-thesis/"
+  - title: "Honors Thesis"
+    url: "/research/honors-thesis/"
   - title: "Publications"
     url: "/research/publications/"
 
