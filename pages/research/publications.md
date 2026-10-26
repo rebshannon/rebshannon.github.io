@@ -50,7 +50,7 @@ J. Z. Benner, **R. C. Shannon**, W. Wu, A. Metsack, L. Shen, and J. Zhao, “The
       <img src="{{ '/images/cavSym.jpg' | relative_url }}">
   </div>
   <div class="large-3 columns">
-      <img src="{ '/images/cavSym.jpg' | relative_url }};text=Width+220+Pixel">
+      <img src="{ '/images/cavSym.jpg' | relative_url }}">
   </div>
 </div>
 </div><!-- /.hide-for-small -->
