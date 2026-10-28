@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: gilson-pond.jpeg
+  image_fullwidth: sunset.jpg
  
 widget1:
   title: "About Me"
@@ -17,11 +17,11 @@ widget2:
   title: "Research"
   url: 'https://rebshannon.github.io/research/'
   text: 'Learn about my CFD experience'
-  image: U267_D2_B45.png
+  image: U267_D2_B45_nB_t100.png
 widget3:
   title: "Cirriculum Vitae"
   url: 'https://rebshannon.github.io/cv/'
-  image: shock-drop.jpg
+  image: shock-drop.png
   text: 'See my full CV here'
 #
 # Use the call for action to show a button on the frontpage
@@ -51,12 +51,12 @@ I am a PhD Candidate in the [Unsteady Fluid Mechanics and Acoustics Lab][1] at B
 
 
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
+ -->
 
 [1]: https://www.bu.edu/ufmal/
