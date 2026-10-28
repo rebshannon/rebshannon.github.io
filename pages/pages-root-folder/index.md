@@ -11,17 +11,17 @@ header:
 widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
-  image: greece.jpg
+  image: dc.jpg
   text: 'about me link'
 widget2:
   title: "Research"
   url: 'https://rebshannon.github.io/research/'
   text: 'Learn about my CFD experience'
-  image: dc.jpg
+  image: U267_D2_B45.png
 widget3:
   title: "Cirriculum Vitae"
   url: 'https://rebshannon.github.io/cv/'
-  image: belgium.jpg
+  image: shock-drop.jpg
   text: 'See my full CV here'
 #
 # Use the call for action to show a button on the frontpage
