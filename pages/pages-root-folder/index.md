@@ -18,7 +18,6 @@ widget2:
   url: 'https://rebshannon.github.io/research/'
   text: 'Learn about my CFD experience'
   image: dc.jpg
-  text: 'about me link'
 widget3:
   title: "Cirriculum Vitae"
   url: 'https://rebshannon.github.io/cv/'
