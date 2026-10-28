@@ -45,6 +45,7 @@ permalink: /index.html
 homepage: true
 
 ---
+
 # Welcome
 
 I am a PhD Candidate in the [Unsteady Fluid Mechanics and Acoustics Lab][1] at Boston University and am a National Defense Science and Engineering Graduate Fellow. I specialize in the simluation of high-speed multiphase flows using finite volume methods.

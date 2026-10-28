@@ -6,8 +6,8 @@ title: "Teaching Experince"
 permalink: "/experience/teaching/"
 categories:
     - experience
-header:
-    image_fullwidth: "header_drop.jpg"
+header: no
+    # image_fullwidth: "header_drop.jpg"
 ---
 
 ## Boston University

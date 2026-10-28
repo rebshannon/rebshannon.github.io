@@ -11,6 +11,7 @@ permalink: /research/publications/
 ---
 
 [Google Scholar][1]
+
 [ORCID][2]
 
 ## Journal Papers

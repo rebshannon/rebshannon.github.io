@@ -6,8 +6,8 @@ title: "Outreach and Involvement"
 permalink: "/experience/outreach/"
 categories:
     - experience
-header:
-    image_fullwidth: "header_drop.jpg"
+header: no
+    # image_fullwidth: "header_drop.jpg"
 ---
 
 ## TrailBlazHers Run Co.

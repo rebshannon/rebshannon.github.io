@@ -4,10 +4,10 @@ show_meta           : false
 title               : "About Me"
 subheadline         : "An Abridged Autobiography"
 #teaser              : "Find out how I got to where I am now"
-header: 
-   title            : "Rebecca Shannon"
-   image_fullwidth  : "header_homepage_13.jpg"
-   slogan      : "A PhD Candidate"
+header: no
+   # title            : "Rebecca Shannon"
+   # image_fullwidth  : "header_homepage_13.jpg"
+   # slogan      : "A PhD Candidate"
 permalink           : "/about-me/"
 ---
 

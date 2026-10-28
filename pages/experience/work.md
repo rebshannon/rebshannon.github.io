@@ -6,8 +6,8 @@ title: "Work and Volunteer Experince"
 permalink: "/experience/work/"
 categories:
     - experience
-header:
-    image_fullwidth: "header_drop.jpg"
+header: no
+    # image_fullwidth: "header_drop.jpg"
 ---
 
 ## Fleet Feet Longmeadow
