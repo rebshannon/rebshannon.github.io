@@ -6,22 +6,23 @@
 #
 layout: frontpage
 header:
-  image: gilson-pond.jpeg
+  image_fullwidth: gilson-pond.jpeg
   caption: "Gilson Pond in Jaffrey, NH; Summer 2026"
 widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
-  image: widget-1-302x182.jpg
+  image: greece.jpg
   text: 'about me link'
 widget2:
   title: "Research"
   url: 'https://rebshannon.github.io/research/'
   text: 'Learn about my CFD experience'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: dc.jpg
+  text: 'about me link'
 widget3:
   title: "Cirriculum Vitae"
   url: 'https://rebshannon.github.io/cv/'
-  image: widget-github-303x182.jpg
+  image: belgium.jpg
   text: 'See my full CV here'
 #
 # Use the call for action to show a button on the frontpage
