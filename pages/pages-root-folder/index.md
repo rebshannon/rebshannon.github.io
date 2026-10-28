@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: gilson-pond.jpeg
-  caption: "Gilson Pond in Jaffrey, NH; Summer 2026"
+ 
 widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
