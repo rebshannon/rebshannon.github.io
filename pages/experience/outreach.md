@@ -14,7 +14,7 @@ header: no
 
 ### UpliftHer
 
-TrailblazHers is an all female run group in Boston. As an UpliftHer, I 
+TrailblazHers is an all female run group in Boston that focuses on finding the joy and community in running. I was selected to be an [UpliftHer][1] in summer 2026. I help lead weekly runs and walks, build a welcoming community, and support larger activations. 
 
 ## Boston University
 
@@ -24,19 +24,18 @@ From 2024-2026, I served as the Communications Chair for the Student Association
 
 ### Student Technology Advisory Council
 
-In this role, I met with other students and members of Information Services and Technology to discuss IT concerns at Boston Univeristy.
+For the 2023-2024 academic year, I represented graduate engineering students on BU's Student Technology Advisory Council. I met with other students and members of Information Services and Technology to discuss IT concerns atthe university and helped test a new website portal.
 
 ## Western New England
 
 ### Student Leader
 
-glickman - balloon cars
+While at Western New Engalnd, I had a few opportunities to volunteer for STEM education at local elementary and middle schools. In 2017, I went to Glickman Elementary School, where I helped students build balloon powered cars based on engineering principles. In 2022, I helped teach teh fundamentals of computer programming to middle school students at John J. Duggen Academy.
 
-duggan - programming short course
 
-### NSF Peer mentor 
+### Peer Mentor 
 
-2021-2022
+In the 2021-2022 academic year, I was a Peer Mentor for nine first year students. The students I mentored were supported by a [National Science Foundation grant][2] designed to provide scholarships to high achieving engineering students whose family demonstrate financial need.
 
 ### Tau Beta Pi
 
@@ -47,5 +46,6 @@ inducted 2020
 
 ### 
 
-
+[1]: https://www.trailblazhersrunco.com/uplifthers
+[2]: https://wne.edu/news/2021/04/nsf-me-grant-benner.cfm
 
