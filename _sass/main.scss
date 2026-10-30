@@ -12,3 +12,12 @@
 .clear-wrap {
   clear: both;
 }
+
+img+em,
+figcaption {
+    font-size: 1rem;
+    font-style: normal;
+    display: block;
+    text-align: center;
+    margin-top: -1rem;
+}

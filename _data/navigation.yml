@@ -38,11 +38,11 @@
 - title: For Fun
   url: "/fun/"
   side: left
-  # dropdown:
+  dropdown:
   # - title: "Running"
   #   url: "/fun/running/"
-  # - title: "Quilting"
-  #   url: "/fun/quilting/"
+    - title: "Quilting"
+      url: "/fun/quilting/"
 
 
 # - title: Blog
