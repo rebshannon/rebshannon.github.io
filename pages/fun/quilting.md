@@ -12,13 +12,31 @@ header: no
 gallery:
     - image_url: butterfly.jpg
       caption: A butterfly placemat
-    - image_url: gallery-example-2.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
-      caption: Great images by Unsplash.com
+    - image_url: bunny-potholder.jpg
+      caption: Potholders 
+    - image_url: butterfly-bag.jpg
+      caption: Tote bag
+    - image_url: cat-pillow.jpg
+      caption: A pillow patterned after my friend's cat, Archie
+    - image_url: dog-potholder.jpg
+      caption: Potholders 
+    - image_url: flower-potholder.jpg
+      caption: Potholders
+    - image_url: mug-rug.jpg
+      caption: Mug rug
+    - image_url: red-placemat.jpg
+      caption: Placemat 
+    - image_url: red-potholder.jpg
+      caption: Potholders
+    - image_url: space-tote-2.jpg
+      caption: Upcycled tote bag
+    - image_url: tj-potholder.jpg
+      caption: Potholders 
+    - image_url: wave-potholder.jpg
+      caption: Potholders
 
 image:
- thumb: gallery-example-1-thumb.jpg
+ thumb: butterfly-thumb.jpg
 ---
 
 
