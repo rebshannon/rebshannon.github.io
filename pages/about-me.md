@@ -15,7 +15,7 @@ I'm a mechanical engineer who specializes in using comutational fluid dynamics t
 
 <!-- ![Image](/images/grad_rock.png){: .align-left}{: width="500px"} -->
 <!-- <img align="left" src="{{'/images/grad_rock.png', relative_url}}" width="250px" margin: 0 15px 10px 0> -->
-<img src="{{'/images/grad_rock.png', relative_url}}" style="float:left;width:300px;">
+<img src="{{'/images/grad_rock.png', relative_url}}" style="float:left;width:300px;margin-right: 10px">
 <!-- <img src="{{'/images/grad_rock.png', relative_url}}" class=align-left alt=""> -->
 I earned my Bachelor of Science in Mechanical Engineering from Western New England University (WNE), graduating Summa Cum Laude in 2021. I was awarded the Dean's Award for maintaining the highest cumulative GPA in the School of Engineering and was named a co-recipiet of the Marston Award, which is given to the senior students judged to have the most mature understanding of the principles of professional engineering practice. I was also inducted into the Tau Beta Pi Honor Society (an engineering honor society) in my junior year and was elected treasurer. 
 
