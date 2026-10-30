@@ -4,6 +4,11 @@
   height: 200px;
 }
 
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
 .align-right {
   float: right;
   margin: 0 0 10px 15px;
