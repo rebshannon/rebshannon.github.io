@@ -10,33 +10,33 @@ header: no
     # image_fullwidth: "header_drop.jpg"
 
 gallery:
-    - image_url: butterfly.jpg
+    - image_url: gallery/butterfly.jpg
       caption: A butterfly placemat
-    - image_url: bunny-potholder.jpg
+    - image_url: gallery/bunny-potholder.jpg
       caption: Potholders 
-    - image_url: butterfly-bag.jpg
+    - image_url: gallery/butterfly-bag.jpg
       caption: Tote bag
-    - image_url: cat-pillow.jpg
+    - image_url: gallery/cat-pillow.jpg
       caption: A pillow patterned after my friend's cat, Archie
-    - image_url: dog-potholder.jpg
+    - image_url: gallery/dog-potholder.jpg
       caption: Potholders 
-    - image_url: flower-potholder.jpg
+    - image_url: gallery/flower-potholder.jpg
       caption: Potholders
-    - image_url: mug-rug.jpg
+    - image_url: gallery/mug-rug.jpg
       caption: Mug rug
-    - image_url: red-placemat.jpg
+    - image_url: gallery/red-placemat.jpg
       caption: Placemat 
-    - image_url: red-potholder.jpg
+    - image_url: gallery/red-potholder.jpg
       caption: Potholders
-    - image_url: space-tote-2.jpg
+    - image_url: gallery/space-tote-2.jpg
       caption: Upcycled tote bag
-    - image_url: tj-potholder.jpg
+    - image_url: gallery/tj-potholder.jpg
       caption: Potholders 
-    - image_url: wave-potholder.jpg
+    - image_url: gallery/wave-potholder.jpg
       caption: Potholders
 
 image:
- thumb: butterfly-thumb.jpg
+ thumb: gallery/butterfly-thumb.jpg
 ---
 
 
