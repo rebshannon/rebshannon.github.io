@@ -30,7 +30,7 @@ image:
 # Metainformation & Customization
 #
 meta_description:
-permalink: "/fun/quilting"
+permalink: "/fun/quilting/"
 ---
 
 {% include gallery %}
