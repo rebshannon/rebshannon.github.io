@@ -1,76 +1,51 @@
 ---
 layout: page
-subheadline:  "Quilting"
-title:  "Responsive Galleries with Foundation"
-teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
+title: "Outreach and Involvement"
+#subheadline: "Why another Jekyll Theme?"
+#teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+permalink: "/fun/quilting/"
 categories:
-    - fun
-tags:
-    - post format
-permalik: "/fun/quilting/"
-image:
-   thumb: "gallery-example-1-thumb.jpg"
-gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
-    - image_url: butterfly.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-4.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-5.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-6.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-7.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-8.jpg
-      caption: Great images by Unsplash.com
+    - experience
+header: no
+    # image_fullwidth: "header_drop.jpg"
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
-<!--more-->
 
-{% include gallery %}
+## TrailBlazHers Run Co.
 
+### UpliftHer
 
-## How to embed a gallery
+TrailblazHers is an all female run group in Boston. As an UpliftHer, I 
 
-`{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
+## Boston University
 
+### SAGE Communications Chair
 
-### Step 1
+From 2024-2026, I served as the Communications Chair for the Student Association of Graduate Engineers (SAGE). I helped to organize events for graduate engineering students at Boston University including pub nights and tickets to see sporting events and musicals. As Communications Chair, I also maintained the organizations Instagram account and wrote monthly newletters to keep members informed on upcoming events.
 
-1. Make two images: a thumbnail and a big image.
-2. Name the thumbnail *gallery-image-thumb.jpg* and...
-3. ...name the big *gallery-image.jpg*.
-4. Place them in the *images*-folder.
+### Student Technology Advisory Council
 
+In this role, I met with other students and members of Information Services and Technology to discuss IT concerns at Boston Univeristy.
 
-### Step 2
+## Western New England
 
-Define the big version in frontmatter,  
+### Student Leader
 
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-~~~
+glickman - balloon cars
 
-If you like captions, give each image a caption:
+duggan - programming short course
 
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-       caption: Starting Page with huge One Logo
-~~~
+### NSF Peer mentor 
 
-### Step 3
+2021-2022
 
-Add the include whereever you want in your content with `{% raw %}{% include gallery %}{% endraw %}`.
+### Tau Beta Pi
 
-{% include alert info='Have a look at this example-entry. And have a look into the images-folder. :)' %}
+inducted 2020
+
+### Intramurals
 
 
+### 
 
 
 
