@@ -20,12 +20,16 @@ gallery:
       caption: A pillow patterned after my friend's cat, Archie
     - image_url: gallery/dog-potholder.jpg
       caption: Potholders 
+    - image_url: gallery/tshirt-quilt.jpg
+      caption: Quilt made from childhood T-shirts 
     - image_url: gallery/flower-potholder.jpg
       caption: Potholders
     - image_url: gallery/mug-rug.jpg
       caption: Mug rug
     - image_url: gallery/red-placemat.jpg
       caption: Placemat 
+    - image_url: gallery/run-pillow.jpg
+      caption: Pillow made from an old T-shirt
     - image_url: gallery/red-potholder.jpg
       caption: Potholders
     - image_url: gallery/space-tote-2.jpg
