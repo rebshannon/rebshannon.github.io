@@ -1,0 +1,36 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: ""
+title: "Quilting Projects"
+teaser: ""
+categories:
+  -
+tags:
+  -
+
+#
+# Gallery
+#
+gallery:
+    - image_url: butterfly.jpg
+      caption: Butterfly Placemat
+    - image_url: gallery-example-2.jpg
+      caption: Great images by Unsplash.com
+    - image_url: gallery-example-3.jpg
+      caption: Great images by Unsplash.com
+#
+# Styling
+#
+image:
+ thumb: butterfly-thumb.jpg
+#
+# Metainformation & Customization
+#
+meta_description:
+permalink: /fun/quilting
+---
+
+{% include gallery %}
