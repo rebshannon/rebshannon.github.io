@@ -43,9 +43,9 @@ During the spring of my junior year, I was among the top 25% of engineering stud
 
 ### Intramurals
 
-Almost every semester, I rallied my friends and organized various intramural teams. We competed in soccer, basketball, volleyball, floor hockey, flag football, and inner tube water polo. During my senior year, I competed in and won the Intramural Fitness Challenge, which replaced traditional intramural sports during the pandemic. I continued to play sports at Boston University, and have participated in basketball and volleyball.
+Almost every semester, I rallied my friends and organized various intramural teams. We competed in soccer, basketball, volleyball, floor hockey, flag football, and inner tube water polo. During my senior year, I competed in and won the Intramural Fitness Challenge, which replaced traditional intramural sports during the pandemic. I continued to play sports at Boston University and have participated in basketball and volleyball.
 
-### 
+ 
 
 [1]: https://www.trailblazhersrunco.com/uplifthers
 [2]: https://wne.edu/news/2021/04/nsf-me-grant-benner.cfm

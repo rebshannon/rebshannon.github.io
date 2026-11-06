@@ -12,7 +12,7 @@ widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
   image: dc.jpg
-  text: ''
+  text: 'Get to know me'
 widget2:
   title: "Research"
   url: 'https://rebshannon.github.io/research/'
@@ -22,7 +22,7 @@ widget3:
   title: "Cirriculum Vitae"
   url: 'https://rebshannon.github.io/cv/'
   image: shock-drop.png
-  text: 'See my full CV here'
+  text: 'See my full CV'
 #
 # Use the call for action to show a button on the frontpage
 #
