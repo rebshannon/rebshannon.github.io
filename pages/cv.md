@@ -13,5 +13,7 @@ Posted by Batfan, modified by community. See post 'Timeline' for change history
 Retrieved 2026-10-20, License - CC BY-SA 4.0
 -->
 
-<embed src="http://rebshannon.github.io/Rebecca-Shannon-CV.pdf" width="500" height="375" 
- type="application/pdf">
+<!-- <embed src="http://rebshannon.github.io/Rebecca-Shannon-CV.pdf" width="500" height="375"  -->
+ <!-- type="application/pdf"> -->
+
+<object data="../Rebecca-Shannon-CV.pdf" width="1000" height="1000" type='application/pdf'></object>
