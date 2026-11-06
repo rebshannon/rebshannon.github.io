@@ -39,10 +39,11 @@ In the 2021-2022 academic year, I was a Peer Mentor for nine first year students
 
 ### Tau Beta Pi
 
-inducted 2020
+During the spring of my junior year, I was among the top 25% of engineering studnets in my year, so I was inducted into the Tau Beta Pi engineering honor society. I was subsequently elected treasurer for the 2020-2021 school year. 
 
 ### Intramurals
 
+Almost every semester, I rallied my friends and organized various intramural teams. We competed in soccer, basketball, volleyball, floor hockey, flag football, and inner tube water polo. During my senior year, I competed in and won the Intramural Fitness Challenge, which replaced traditional intramural sports during the pandemic. I continued to play sports at Boston University, and have participated in basketball and volleyball.
 
 ### 
 

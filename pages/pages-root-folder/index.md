@@ -12,7 +12,7 @@ widget1:
   title: "About Me"
   url: 'https://rebshannon.github.io/about-me/'
   image: dc.jpg
-  text: 'about me link'
+  text: ''
 widget2:
   title: "Research"
   url: 'https://rebshannon.github.io/research/'
